@@ -4,6 +4,8 @@ set nocompatible
 " Set highlight search
 set hlsearch
 
+set colorcolumn=81
+
 " Show line numbers
 set number
 
