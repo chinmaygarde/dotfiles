@@ -81,3 +81,4 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 source ~/.profile
 
+export BULLETTRAIN_TIME_SHOW=false
