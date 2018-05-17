@@ -7,6 +7,9 @@ export ZSH=$HOME/.oh-my-zsh
 # time that oh-my-zsh is loaded.
 ZSH_THEME="bullet-train"
 
+# Bullet Train Options
+export BULLETTRAIN_CUSTOM_BG=green
+
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
@@ -80,5 +83,3 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 source ~/.profile
-
-export BULLETTRAIN_TIME_SHOW=false
